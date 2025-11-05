@@ -11,3 +11,5 @@ wheels/
 
 # Etabs files
 Model/
+*.chw
+*.chm
